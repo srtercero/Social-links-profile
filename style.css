@@ -9,9 +9,10 @@ body {
   font-family: "Inter", sans-serif;
   background-color: #141414;
   font-size: 14px;
-}
-.container {
-  margin: 175px 0px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .contenedor {
   background-color: hsl(0, 0%, 12%);
